@@ -27,3 +27,9 @@ BONUS: implementación correcta
 +0.5
 Total base
 5.
+
+EXPLICACION BONUS
+mplementé un método que suma todas las ventas realizadas por cada tienda y muestra el total. Escogí este método porque es sencillo de entender, útil para analizar los datos y me permitió aplicar bien el uso de ciclos anidados y recorrido de matrices, tal como lo hemos trabajado en clase.
+
+
+
